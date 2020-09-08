@@ -1,5 +1,3 @@
-Note: All working code is for master branch (gh-pages is for deployment)
-Read below for instructions on running master
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
