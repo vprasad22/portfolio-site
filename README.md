@@ -1,3 +1,6 @@
+Note: All working code is for master branch (gh-pages is for deployment)
+Read below for instructions on running master
+
 # portfolio-site
 Checkout my personal website!
 
