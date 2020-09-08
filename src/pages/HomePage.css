@@ -1,0 +1,79 @@
+.new {
+    background-color: #141925;
+
+}
+
+.bg {
+    width: 102%;
+    
+}
+
+.home-pic {
+position: absolute;
+width: 350px;
+height: 350px;
+left: 65%;
+top: 160px;
+
+}
+
+.N {
+    margin-right:-30px;
+    margin-top: -65%;
+font-weight: bold;
+font-size: 80px;
+line-height: 80px;
+color:  #C1C3CC;
+margin-left: 228px;
+
+}
+
+.description {
+    font-family: 'Archivo', sans-serif;
+    color:  #C1C3CC;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 33px;
+margin-left: 253px;
+margin-right: 35%;
+margin-top: 30px;
+}
+
+.learn {
+    font-family: 'Archivo', sans-serif;
+    color:  C1C3CC;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 33px;
+margin-left: 253px;
+margin-right: 35%;
+margin-top: 30px;
+
+}
+
+.linker {
+    width: 60px;
+    height: 60px;
+    margin-top: 22px;
+    margin-left: 245px;
+    margin-bottom:350px;
+}
+
+.git {
+    width: 50px;
+    height: 50px;
+    margin-top: 22px;
+    margin-left: 55px;
+    margin-bottom:358px;
+}
+
+.resume {
+    width: 51px;
+    height: 51px;
+    margin-top: 22px;
+    margin-left: 55px;
+    margin-bottom:358px;
+}
+
